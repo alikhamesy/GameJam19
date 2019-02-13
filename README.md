@@ -4,3 +4,4 @@
 Group Members:	
 - Ali Khamesy
 - Lina Dang-Nguyen
+- Jovan Bapla
