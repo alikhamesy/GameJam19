@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 22f54ce3fd6e34df5b21c9617d08f93c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: greenhouse
+    21300002: fyreHouse
+    21300004: houses_0
+    21300006: solar panel
+    21300008: satellite
+    21300010: misc house
+    21300012: houses_1
+    21300014: houses_2
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: greenhouse
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2461
+        width: 2183
+        height: 725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee5d21070fac4d42b3ff9139a66eb30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fyreHouse
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1769
+        width: 750
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f647c65d06940619c988416db7732b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_0
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1736
+        width: 1252
+        height: 684
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16339d76f50a04440b9709dc7ba329bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: solar panel
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 110
+        width: 420
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f1f2f72055e476cbbb9c8649ea995d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: satellite
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 19
+        width: 486
+        height: 585
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 66}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0920ef3a2428d40d5819a12bb7551b33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: misc house
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 472
+        width: 593
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31cecbdb2c9248b691a81566b911252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_1
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 489
+        width: 659
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfd2a58cc09c46ac9297c32d17bbc62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 770
+        width: 2031
+        height: 727
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -93.5, y: -270.5}
+        - {x: -201.5, y: -363.5}
+        - {x: -132.5, y: -319.5}
+        - {x: -48.5, y: -259.5}
+        - {x: 196.5, y: -314.5}
+        - {x: 91.5, y: -291.5}
+        - {x: -13.5, y: -260.5}
+      - - {x: 464.29498, y: -353.90137}
+        - {x: 451.40805, y: -357.12402}
+        - {x: 446.57547, y: -361.958}
+        - {x: 446.57547, y: -363.5}
+        - {x: 494.90143, y: -363.5}
+        - {x: 493.29056, y: -358.73535}
+        - {x: 486.84708, y: -357.12402}
+        - {x: 467.5167, y: -353.90137}
+      - - {x: 440.132, y: 237.45605}
+        - {x: 229.10863, y: 237.45605}
+        - {x: 192.05873, y: 231.01074}
+        - {x: 166.28488, y: 237.45605}
+        - {x: -349.19205, y: 237.45605}
+        - {x: -922.6601, y: -97.70019}
+        - {x: -979.0404, y: -142.81738}
+        - {x: -979.0404, y: -361.958}
+        - {x: 220.5, y: -312.5}
+        - {x: 844.4592, y: -292.6709}
+        - {x: 844.4592, y: -104.1455}
+        - {x: 799.355, y: -52.583004}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e2d939aa25e42f6a72f3b4f617db3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c8066c0fd4434458598fc02fb87f4ddc
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
