@@ -6,4 +6,4 @@ Group Members:
 - Lina Dang-Nguyen
 - Jovan Bapla
 - Jarrod Vanthournout
-
+- Noble Tan
