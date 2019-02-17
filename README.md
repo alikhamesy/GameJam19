@@ -7,3 +7,5 @@ Group Members:
 - Jovan Bapla
 - Jarrod Vanthournout
 - Noble Tan
+
+Github please make this easier to use
