@@ -18,3 +18,4 @@ public class credits : MonoBehaviour
             SceneManager.LoadScene("menu", LoadSceneMode.Single);
 
         }
+    }
