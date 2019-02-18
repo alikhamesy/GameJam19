@@ -16,7 +16,7 @@ public class credits : MonoBehaviour
         if (Input.GetKey(KeyCode.B))
         {
             SceneManager.LoadScene("menu", LoadSceneMode.Single);
-
+        
         }
     }
 }
